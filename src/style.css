@@ -1,0 +1,38 @@
+.img-carrosel-1{
+    height: 400px;
+    object-position: 0 80%;
+    object-fit: cover;
+}
+
+.img-carrosel-2{
+    height: 400px;
+    
+    object-fit: cover;
+}
+
+.fonte-titulo{
+    font-family: 'Pacifico', cursive;
+}
+
+.cor-titulo{
+    color: darkred;
+}
+
+.receita-largura{
+    width: 18rem;
+}
+
+.botao-receita{
+    background-color: darkred;
+    color: #fff;
+}
+
+.borda-receita{
+    border-color: darkred;
+}
+
+.img-receita{
+    height: 200px;
+    
+    object-fit: cover;
+}
