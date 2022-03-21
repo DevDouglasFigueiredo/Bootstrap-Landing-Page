@@ -15,11 +15,11 @@
 }
 
 .cor-titulo{
-    color: darkred;
+    color: darkred!important;
 }
 
 .receita-largura{
-    width: 18rem;
+    max-width: 18rem;
 }
 
 .botao-receita{
